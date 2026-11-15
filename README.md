@@ -1,8 +1,11 @@
 # gj
 
 Shooter Game
-Top Down
 
+AOT style- grapple hooks, Parry, Dash.
+
+Platformer Chaos induced boun back game.
+Red-liner like gameplay
 
 
 
