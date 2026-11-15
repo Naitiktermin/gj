@@ -1,11 +1,7 @@
 # gj
 
-Shooter Game
-
-AOT style- grapple hooks, Parry, Dash.
-
-top down Chaos induced bounce back game.
-endless shooter game with a dark theme with various abilities which would be bounce back themed the game lasts till you survive enemy buffs every 60 seconds the abilities are mentioned below 
+Parking Ragebait Game
+A Parking game where people have to drive though multiple road and places to go to a parking station where they will have to park car but the twist is that the game has bouncing patterns overall liek boucing walls , bouncy shopping carts rolling without warning and ice patches pull out of nowhere and that type of parking game with bouncy effects.
 
 
 
